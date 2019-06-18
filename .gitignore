@@ -1,0 +1,7 @@
+__pycache__
+
+*.pyc
+
+.exercism
+
+.pytest_cache
